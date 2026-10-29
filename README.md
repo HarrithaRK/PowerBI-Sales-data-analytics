@@ -153,7 +153,8 @@ Replace the example filenames with your actual project files. Include the datase
 
 
 ```markdown
-![Power BI Sales Analysis Dashboard]
+![Power BI Sales Analysis Dashboard]https://github.com/HarrithaRK/PowerBI-Sales-data-analytics/blob/main/main%20dashboard.png
+
 ```
 
 ## 🔮 Future Enhancements
