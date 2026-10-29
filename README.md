@@ -150,12 +150,20 @@ Replace the example filenames with your actual project files. Include the datase
 
 ## 📸 Dashboard Preview
 
+## Power BI Dashboard Screenshots
 
+### 1. Sales Overview
+![Sales Overview](https://github.com/HarrithaRK/PowerBI-Sales-data-analytics/blob/main/main%20dashboard.png
+)
 
-```markdown
-![Power BI Sales Analysis Dashboard]https://github.com/HarrithaRK/PowerBI-Sales-data-analytics/blob/main/main%20dashboard.png
+### 2. Profit Analysis
+![Profit Analysis](
 
-```
+### 3. Sales Trends
+![Sales Trends](
+
+### 4. Table Structure
+![Table View](
 
 ## 🔮 Future Enhancements
 
