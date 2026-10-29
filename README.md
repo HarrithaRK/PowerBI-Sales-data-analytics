@@ -157,13 +157,16 @@ Replace the example filenames with your actual project files. Include the datase
 )
 
 ### 2. Profit Analysis
-![Profit Analysis](
+![Profit Analysis](https://github.com/HarrithaRK/PowerBI-Sales-data-analytics/blob/main/interactions.png
+)
 
 ### 3. Sales Trends
-![Sales Trends](
+![Sales Trends](https://github.com/HarrithaRK/PowerBI-Sales-data-analytics/blob/main/sales%20data.png
+)
 
 ### 4. Table Structure
 ![Table View](
+https://github.com/HarrithaRK/PowerBI-Sales-data-analytics/blob/main/table.png)
 
 ## 🔮 Future Enhancements
 
